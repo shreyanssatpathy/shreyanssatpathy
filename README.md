@@ -1,6 +1,9 @@
-### Hi there, I'm Shreyans 👋
+## Hi there, I'm Shreyans 👋 
 
-## I'm a Sophomore, Developer, Tech Geek and Sports Enthusiast!!
+##### I'm Currently pursuing Computer Science Engineering at Vellore Institute of Technology. I'm a Front-End Web Developer and Data Science Enthusiast. I am passionate about exploring new technolgies and frameworks that create a meaningful impact in people's lives. I have a keen interest in Financial Markets, Data Analysis, Data Crunching and I've been steadily foraying into that domain.
+<br />
+
+## I'm a Web Developer, Tech Geek and Sports Enthusiast!!
 
 - 👀 I’m interested in Web Developement, Data Science and I'm a big Football fanatic !
 - 🌱 I’m currently learning everything that interests me xD
@@ -10,16 +13,16 @@
 
 <br />
 
-### Connect with me:
+## Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
