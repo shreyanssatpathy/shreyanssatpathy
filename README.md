@@ -3,7 +3,7 @@
 ##### I'm Currently pursuing Computer Science Engineering at Vellore Institute of Technology. I'm a Front-End Web Developer and Data Science Enthusiast. I am passionate about exploring new technolgies and frameworks that create a meaningful impact in people's lives. I have a keen interest in Financial Markets, Data Analysis, Data Crunching and I've been steadily foraying into that domain.
 <br />
 
-## I'm a Web Developer, Tech Geek and Sports Enthusiast!!
+## I'm a Software Developer, Tech Geek and Sports Enthusiast!!
 
 - 👀 I’m interested in Web Developement, Data Science and I'm a big Football fanatic !
 - 🌱 I’m currently learning everything that interests me xD
